@@ -1,0 +1,17 @@
+.paragraph {
+    background-color: rgb(255, 191, 202);
+}
+
+.paragraph#cooler {
+    font-size: 20px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 40px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
