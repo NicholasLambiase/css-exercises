@@ -48,6 +48,8 @@ body {
 
 .content-box {
   text-align: center;
+  width: 200px;
+  flex: 1 0 auto;
 }
 
 
